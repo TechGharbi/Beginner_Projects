@@ -1,5 +1,7 @@
 **Project 1 :
 
-<p align="center">
-  <img src="./TODO.png" alt="cute TODO list" width="50%">
-</p>
+=======
+## Screenshot
+![website screenshoot](TODO.png?raw=true "screenshoot")
+# 🔥
+>>>>>>> 3664cde
